@@ -1,5 +1,4 @@
 # Mosquito Game
-<hr>
 Um mini-jogo criado em HTML, CSS e JavaScript inspirado no projeto do curso do professor Jorge Sant Ana.
 O objetivo é simples: elimine todos os mosquitos antes que acabem suas vidas!
 Você pode escolher entre três níveis de dificuldade e tentar sobreviver até o tempo acabar.
@@ -7,7 +6,6 @@ Você pode escolher entre três níveis de dificuldade e tentar sobreviver até 
 
 
 # Como Jogar
-<hr>
 Abra o jogo na página inicial.
 Escolha um dos níveis:
 Normal – mosquitos mais lentos
@@ -21,7 +19,6 @@ Se o tempo acabar, você vence!
 
 
 # Tecnologias Utilizadas
-<hr>
 HTML5
 CSS3
 JavaScript (DOM, events, timers)
@@ -30,6 +27,5 @@ Hospedado com GitHub Pages
 </br>
 
 # Acesse o Jogo
-<hr>
 Você pode jogar diretamente pelo GitHub Pages:
 👉 https://daniel-antonio-bandeira.github.io/mosquito-game/index.html
